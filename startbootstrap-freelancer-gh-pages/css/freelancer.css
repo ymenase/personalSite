@@ -214,6 +214,7 @@ section.success {
   height: 100%;
   opacity: 0;
   transition: all ease 0.5s;
+  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   -webkit-transition: all ease 0.5s;
   -moz-transition: all ease 0.5s;
 }
@@ -224,7 +225,7 @@ section.success {
   position: absolute;
   width: 100%;
   height: 20px;
-  font-size: 20px;
+  font-size: 12px;
   text-align: center;
   top: 50%;
   margin-top: -12px;
